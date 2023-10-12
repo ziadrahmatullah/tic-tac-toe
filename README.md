@@ -1,4 +1,3 @@
-
 # TIC-TAC-TOE Exercise
 
 - Fork this repo
@@ -7,4 +6,4 @@
 
 - MERGE REQUEST TO MASTER BRANCH AND ASSIGN REVIEWER TO YOU MENTOR
 
-**Note** : don't forget to do frequest commit
+**Note** : don't forget to do frequent commit
